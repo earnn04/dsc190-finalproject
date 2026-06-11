@@ -1,0 +1,7 @@
+README.md
+main.py
+pyproject.toml
+dsc190_finalproject.egg-info/PKG-INFO
+dsc190_finalproject.egg-info/SOURCES.txt
+dsc190_finalproject.egg-info/dependency_links.txt
+dsc190_finalproject.egg-info/top_level.txt
